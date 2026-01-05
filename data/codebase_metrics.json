@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "generated": "2026-01-01",
+    "source": "BlueDuckLLC Python Portfolio",
+    "analysis_method": "Deep codebase exploration"
+  },
+  "totals": {
+    "python_files": 5471,
+    "lines_of_code": 172984,
+    "class_function_definitions": 105553,
+    "distinct_projects": 555,
+    "project_directories": 298,
+    "standalone_files": 262
+  },
+  "framework_usage": {
+    "fastapi": {
+      "occurrences": 861,
+      "files": 84
+    },
+    "langgraph": {
+      "files": 40,
+      "imports": 202
+    },
+    "numpy_pandas": {
+      "occurrences": 10499,
+      "files": 3811
+    },
+    "async_patterns": 8011
+  },
+  "domains": {
+    "trading_finance": {
+      "project_count": 15,
+      "key_projects": [
+        "algo-trading-workshop",
+        "mean-reversion-trading",
+        "BTC-TREASURY-PAIRS-BOT",
+        "ALGO-TRADE-DAILY"
+      ]
+    },
+    "music_creative": {
+      "project_count": 8,
+      "key_projects": [
+        "foot-pedal-music",
+        "CORAL-SYMPHONY",
+        "BREATH-BEATS",
+        "SONIC-BRANDS"
+      ]
+    },
+    "ai_agents": {
+      "project_count": 12,
+      "key_projects": [
+        "expert-bridge-platform",
+        "lovable-prompts",
+        "conflict-resolution-concierge",
+        "claude-autonomous-agents"
+      ]
+    },
+    "data_analytics": {
+      "project_count": 8,
+      "key_projects": [
+        "ascii_constellation",
+        "CI",
+        "RUNNING-PLATFORM",
+        "datadipity-pareto-eda"
+      ]
+    },
+    "rag_knowledge": {
+      "project_count": 4,
+      "key_projects": [
+        "RAGS-Suite",
+        "RAGS-Suite-v2",
+        "MANUS-RESEARCH-RAG"
+      ]
+    },
+    "specialized": {
+      "project_count": 20,
+      "key_projects": [
+        "bitcoin-book-cipher-hunter",
+        "organization-finder-bot",
+        "tiertester"
+      ]
+    }
+  },
+  "largest_files": [
+    {
+      "file": "executive_report_generator.py",
+      "project": "algo-trading-workshop",
+      "loc": 2699
+    },
+    {
+      "file": "guggenheim_proposal.py",
+      "project": "ascii_constellation",
+      "loc": 1439
+    },
+    {
+      "file": "advanced_grant_optimization.py",
+      "project": "ascii_constellation",
+      "loc": 1310
+    },
+    {
+      "file": "cultural_impact_predictor.py",
+      "project": "ascii_constellation",
+      "loc": 1237
+    },
+    {
+      "file": "clair_continuous_improvement.py",
+      "project": "CI",
+      "loc": 1193
+    }
+  ],
+  "evolution_phases": [
+    {
+      "phase": "Foundation",
+      "years": "2019-2021",
+      "characteristics": [
+        "Single-file scripts",
+        "Basic trading experiments",
+        "MIDI music notation"
+      ]
+    },
+    {
+      "phase": "Integration",
+      "years": "2022-2023",
+      "characteristics": [
+        "FastAPI adoption",
+        "Database-driven apps",
+        "Multi-file organization"
+      ]
+    },
+    {
+      "phase": "Sophistication",
+      "years": "2024-2025",
+      "characteristics": [
+        "LangGraph orchestration",
+        "Multi-agent systems",
+        "Cross-domain pattern transfer"
+      ]
+    }
+  ]
+}
